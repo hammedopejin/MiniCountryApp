@@ -1,0 +1,66 @@
+[
+  {
+    "capital": "Kabul",
+    "code": "AF",
+    "currency": {
+      "code": "AFN",
+      "name": "Afghan afghani",
+      "symbol": "؋"
+    },
+    "flag": "https://restcountries.eu/data/afg.svg",
+    "language": {
+      "code": "ps",
+      "name": "Pashto"
+    },
+    "name": "Afghanistan",
+    "region": "AS"
+  },
+  {
+    "capital": "Mariehamn",
+    "code": "AX",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "flag": "https://restcountries.eu/data/ala.svg",
+    "language": {
+      "code": "sv",
+      "name": "Swedish"
+    },
+    "name": "Åland Islands",
+    "region": "EU"
+  },
+  {
+    "capital": "Tirana",
+    "code": "AL",
+    "currency": {
+      "code": "ALL",
+      "name": "Albanian lek",
+      "symbol": "L"
+    },
+    "flag": "https://restcountries.eu/data/alb.svg",
+    "language": {
+      "code": "sq",
+      "name": "Albanian"
+    },
+    "name": "Albania",
+    "region": "EU"
+  },
+  {
+    "capital": "Algiers",
+    "code": "DZ",
+    "currency": {
+      "code": "DZD",
+      "name": "Algerian dinar",
+      "symbol": "د.ج"
+    },
+    "flag": "https://restcountries.eu/data/dza.svg",
+    "language": {
+      "code": "ar",
+      "name": "Arabic"
+    },
+    "name": "Algeria",
+    "region": "AF"
+  }
+]
